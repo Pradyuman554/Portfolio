@@ -270,7 +270,7 @@ export default function HomePage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            Rishabh Katiyar
+            Pradyuman Sharma
           </motion.h1>
           <motion.p 
             className="text-xl md:text-2xl mb-8 hover-target"
@@ -278,7 +278,7 @@ export default function HomePage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            Full Stack Developer & AI/ML Engineer
+            Full Stack Developer & Blockchain Developer
           </motion.p>
           <motion.div
             initial={{ opacity: 0 }}
@@ -287,17 +287,24 @@ export default function HomePage() {
             className="flex justify-center space-x-4 mb-8"
           >
             <SocialLink href="https://github.com/Pheonixrog" icon={Github} label="GitHub" />
-            <SocialLink href="https://www.linkedin.com/in/rishabh-katiyar-30b136252/" icon={Linkedin} label="LinkedIn" />
-            <SocialLink href="https://leetcode.com/u/rishabhasus9/" icon={Code} label="LeetCode" />
+            <SocialLink href="https://www.linkedin.com/in/pradyuman-5-sharma" icon={Linkedin} label="LinkedIn" />
+            <SocialLink href="https://leetcode.com/u/pradyuman554/" icon={Code} label="LeetCode" />
           </motion.div>
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.6 }}
           >
+
+          <a
+            href="https://docs.google.com/document/d/1u9EzfClYd6LLeCMgbrG7dfRLkaNsjuIvEIFxkdTDW6M/export?format=doc"
+            download
+          >
             <Button className="bg-purple-600 hover:bg-purple-700 hover-target">
               <FileText className="mr-2 h-4 w-4" /> Download Resume
             </Button>
+          </a>
+
           </motion.div>
           
         </div>

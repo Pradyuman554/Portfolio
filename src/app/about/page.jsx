@@ -283,7 +283,7 @@ export default function AboutPage() {
           <h2 className="text-2xl font-semibold mb-4">Contact Me</h2>
           <div className="flex flex-col space-y-2">
             <a
-              href="mailto:rishabhasus9@gmail"
+              href="mailto:pradyumanmusic@gmail"
               className="flex items-center"
             >
               <Mail className="w-5 h-5 mr-2" />
