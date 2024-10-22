@@ -204,7 +204,7 @@ export default function AboutPage() {
                   Senior Secondary
                 </h3>
                 <p className="text-gray-300">
-                  St. Edward's School, Shimla - Non-Medical
+                  St. Edwards School, Shimla - Non-Medical
                 </p>
                 <p className="text-gray-400">Graduated: 2022</p>
               </div>
