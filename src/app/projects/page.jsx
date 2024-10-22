@@ -58,21 +58,21 @@ function Component() {
         // deployment: "https://github.com/withrajatsharma/supply-chain"
       },
       {
-        id: 3,
+        id: 2,
         title: "Coding Platform",
         description: "An educational coading platform, you can play with code in playground or compete with others in coding challenges.",
-        image: "assets/projects/coadingplatform/img1.png?height=400&width=600",
+        image: "assets/projects/codingplatform/img1.png?height=400&width=600",
         // video: "/placeholder.svg?height=400&width=600",
         github: "https://github.com/Pheonixrog/Coading-Platform",
         // deployment: "https://ar-learn.edu"
       },
       {
-        id: 4,
+        id: 3,
         title: "Portfolio",
         description: "A next.js portfolio website which showcases my skills and projects.",
         image: "assets/projects/porfolio/img1.png?height=400&width=600",
         // video: "/placeholder.svg?height=400&width=600",
-        github: "https://github.com/Pheonixrog/PortfolioV2",
+        github: "https://github.com/Pradyuman554/Portfolio",
         // deployment: "https://ar-learn.edu"
 
       }
