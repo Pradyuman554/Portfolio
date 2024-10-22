@@ -70,7 +70,7 @@ function Component() {
         id: 3,
         title: "Portfolio",
         description: "A next.js portfolio website which showcases my skills and projects.",
-        image: "assets/projects/porfolio/img1.png?height=400&width=600",
+        image: "assets/projects/portfolio/img1.png?height=400&width=600",
         // video: "/placeholder.svg?height=400&width=600",
         github: "https://github.com/Pradyuman554/Portfolio",
         // deployment: "https://ar-learn.edu"
